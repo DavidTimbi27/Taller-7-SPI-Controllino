@@ -49,9 +49,3 @@ La topología de red requiere que las líneas SCLK, MOSI y MISO sean compartidas
 
 ---
 
-## 4. Instrucciones de Despliegue
-
-1. **Clonación del Repositorio:**
-   Abra la terminal de su sistema y ejecute el siguiente comando para obtener el código fuente:
-   ```bash
-   git clone [https://github.com/tu-usuario/Taller-7-SPI-Controllino.git](https://github.com/tu-usuario/Taller-7-SPI-Controllino.git)
